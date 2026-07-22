@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Ajeks Marvins 👋
 
-<!--
-**ajeksmarvins/ajeksmarvins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm an AI Automation Learner at NECA ICT Academy with a passion for Python, automation, and building AI-powered solutions. I'm continuously improving my technical skills by working on practical projects and sharing my learning journey.
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+- Python Programming
+- AI Automation
+- Git & GitHub
+- APIs
+- Workflow Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Python
+- Git
+- GitHub
+- VS Code
+- AI Tools
+
+## 🚀 Current Projects
+- AI Automation Projects
+- Python Practice Applications
+- Portfolio Website
+
+## 📫 Connect With Me
+- LinkedIn: *(Add your LinkedIn URL after creating it)*
+- Portfolio: https://ajeks-marvins-portfolio.lovable.app

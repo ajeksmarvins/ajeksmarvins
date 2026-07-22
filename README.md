@@ -23,5 +23,5 @@ I'm an AI Automation Learner at NECA ICT Academy with a passion for Python, auto
 - Portfolio Website
 
 ## 📫 Connect With Me
-- LinkedIn: *(Add your LinkedIn URL after creating it)*
+- LinkedIn: https://www.linkedin.com/in/ajekuko-marvellous-367313424
 - Portfolio: https://ajeks-marvins-portfolio.lovable.app
